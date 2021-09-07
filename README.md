@@ -1,10 +1,10 @@
-# foofapp
+# Asma's Kitchen
 
-A new Flutter project.
+Food Ordering App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+We Sell food onine by using this application.
 
 A few resources to get you started if this is your first Flutter project:
 
